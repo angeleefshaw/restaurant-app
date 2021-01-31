@@ -13,7 +13,7 @@ const connection = mysql.createConnection({
     password: 'vbsixseven97vbzxAs!',
   
     // Name of database
-    database: 'burger_db'
+    database: 'cat_db'
   });
 
 module.exports = connection;
