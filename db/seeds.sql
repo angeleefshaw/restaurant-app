@@ -1,8 +1,8 @@
 INSERT INTO cats (cat_name, petted)
-VALUES(Fluffy, false);
+VALUES('Fluffy', false);
 
 INSERT INTO cats (cat_name, petted)
-VALUES(Whiskers, false);
+VALUES('Whiskers', false);
 
 INSERT INTO cats (cat_name, petted)
-VALUES(Meowington, false);
+VALUES('Meowington', false);
